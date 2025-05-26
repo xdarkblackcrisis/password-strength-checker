@@ -18,8 +18,9 @@ A desktop GUI application built with Python's Tkinter that helps users evaluate 
 - `string` module for character checks
 
 ## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/378320aa-3dd4-4841-864b-23a107c39896)
 
-*Add screenshots of the UI here if you'd like*
+
 
 ## 📦 Installation
 
