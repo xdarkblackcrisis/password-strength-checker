@@ -19,6 +19,9 @@ A desktop GUI application built with Python's Tkinter that helps users evaluate 
 
 ## 📸 Screenshots
 ![image](https://github.com/user-attachments/assets/378320aa-3dd4-4841-864b-23a107c39896)
+![image](https://github.com/user-attachments/assets/421c01f4-584d-4d4b-8b96-f78923cd6791)
+![image](https://github.com/user-attachments/assets/0b8a52bb-dd26-4d92-9e63-581a8a23d6a3)
+
 
 
 
